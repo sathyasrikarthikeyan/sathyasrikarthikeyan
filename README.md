@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced Data Structures, Algorithms, and AWS Cloud Services  
 - 💞️ I’m looking to collaborate on open-source projects involving automation, data pipelines, and web development  
 - 🏆 CodeCircuit Hackathon Finalist  
-- 📫 How to reach me: sathyasrikarthikeyan@example.com | [LinkedIn](https://linkedin.com/in/sathyasrikarthikeyan)  
+- 📫 How to reach me: sathyasrikarthikeyan16@gmail.com | [LinkedIn](https://www.linkedin.com/in/sathya-sri-5208b9250/)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving coding challenges and building AI-powered applications in my free time  
 
