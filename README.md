@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects involving automation, data pipelines, and web development  
 - 🏆 CodeCircuit Hackathon Finalist  
 - 📫 How to reach me: sathyasrikarthikeyan16@gmail.com | [LinkedIn](https://www.linkedin.com/in/sathya-sri-5208b9250/)  
-- 😄 Pronouns: He/Him  
+- 😄 Pronouns: She/her  
 - ⚡ Fun fact: I love solving coding challenges and building AI-powered applications in my free time  
 
 ---
